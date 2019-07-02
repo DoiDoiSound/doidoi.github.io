@@ -1,8 +1,9 @@
+
 h1{
-  font-style: italic;
   font-size: 5em;
   background-color: yellow;
   text-align: center;
+  font-family: 'Fjalla One', sans-serif;
 }
 
 head{
@@ -12,21 +13,26 @@ head{
 #paragragh {
   text-align: center;
   font-size: 1em;
+  font-family: 'Nanum Gothic', sans-serif;
 }
 #smallTitle{
   text-align: center;
   font-size:1.5em;
   font-style: italic;
+  font-family: 'Nanum Gothic', sans-serif;
 }
-#main{
+#smallName{
   text-align: center;
-  font-style: italic;
   font-size: 3em;
-  background: yellow
+  background: yellow;
+  font-family: 'Fjalla One', sans-serif;
 }
 
 #middleTitle
 {
   text-align: center;
   font-size:3em;
+  font-family: 'Nanum Gothic', sans-serif;
 }
+
+/* font-family: 'Fjalla One', sans-serif; */
