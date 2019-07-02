@@ -36,8 +36,8 @@ head{
 }
 #menu {
   position: fixed;
-  left: 0;
-  top: 70%;
+  left: 0%;
+  bottom: 70%;
   width: 8em;
   margin-top: -2.5em;
   font-family: 'Fjalla One', sans-serif;
